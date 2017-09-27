@@ -1,2 +1,1 @@
-# fastswitch
-holy shit is this even a challenge anymore 
+scroll up/down to switch between 1st and 2nd weap quickly
