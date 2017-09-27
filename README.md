@@ -1,1 +1,1 @@
-scroll up/down to switch between 1st and 2nd weap quickly
+ill leave this for you people to test kthxbye
